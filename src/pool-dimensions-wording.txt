@@ -1,0 +1,80 @@
+-------------------------------------------------------------------------------
+POŽADAVKY
+-------------------------------------------------------------------------------
+REQ Počet drah
+Bazén musí umožnit vytyčení 10 samostatných dlouhých drah nebo 20 samostatných krátkých drah, přičemž krajní dvě dráhy jsou vymezeny z vnější strany hranou bazénu.
+
+Zdůvodnění
+Požadovaná okamžitá kapacita je 150 osob. Z hlediska hygienických a bezpečnostních omezení je maximální přípustný počet osob 8,0 m2 / osobu *.
+
+* 
+Paragraf 9 odstavec 1 Vyhlášky, kterou se stanoví hygienické požadavky na koupaliště, sauny a hygienické limity písku
+v pískovištích venkovních hracích ploch 
+
+http://www.szu.cz/uploads/documents/chzp/voda/pdf/464mpr.pdf?highlightWords=Kapacita
+
+Současná praxe, kdy na jedné dráze stávajícího 25m bazénu je až 30 dětí, je toto omezení překročeno trojnásobně (!!!). Přitom je namísto standardně požadovaných 5,0 m2 na osobu potřeba plocha větší, zde odhadovaná na 8 m2 na osobu.  
+
+
+REQ Tvar bazénu
+Tvar bazénu musí respektovat obdélník se dvěma stranami podélnými a dvěma stranami příčnými. Příčné a podélné strany vzájemně svírají úhel 90,0 +/- 0,1 stupňů.
+
+Rozměry bazénu 
+Rozměry bazénu se musí měřit jako nejkratší kolmá vzdálenost mezi dvěma protějšími body vnitřního povrchu svislých stěn protějších vnitřních stěn. 
+Příčné hrany obdélníkového bazénu jsou ty dva okraje, které mají svoji délku menší, než je kolmá délka bazénu.  
+
+
+Povrchový materiál - vodotěsnost 
+Povrchová vrstva vnitřních stěn a dna bazénu musí být vytvořena z materiálu, který umožňuje 100% vodotěsnost.  
+
+Povrchový materiál - hladkost 
+Povrchová vrstva vnitřních stěn a dna bazénu musí mít ve styku s lidskou kůží příznivé protiskluzové vlastnosti.  
+
+Zdůvodnění
+Hladký materiál usnadňuje pravidelnou údržbu tím, že na něm ulpívá menší množství nečistot a organické hmoty a její mechanické odstranění je snadnější. 
+Příliš hladký materiál však znemožňuje užití stěny bazénu k bezpečnému stání a odrazu, což je jedna z primárních užitných vlastností povrchu bazénu. 
+
+Povrchový materiál - cena za m2 
+Cena za pořízení jednotkové plochy povrchové vrstvy vnitřních stěn a dna bazénu vypočtená jako podíl celkových nákladů na pořízení celé plochy a velikosti plochy v metrech čtverečních musí vyhovovat kritériu
+JEDNOTKOVÁ CENA < TBD Kč/m2
+
+Zdůvodnění
+Vhodná cena materiálu významným způsobem ovlivňuje celkovou pořizovací cenu stavby bazénu. 
+Dražší nerezový povrch by sice mohl vykazovat výhodné vlastnosti z hlediska údržby, ale standardní keramické povrchy lze pořídit za cenu významně nižší, přičemž údržbovost je zajištěna v přijatelné míře vhodnou konstrukcí stěn, přítokových a odtokových cest.      
+
+Konstrukční řešení odtokových cest
+TBD minimalizovat odpar vhodným demontovatelným krytováním TBD
+TBD maximalizovat odtékání nečistot plovoucích na hladině vhodně tvarovanou přepadovou hranou podélných hran bazénu TBD
+TBD maximalizovat pohodlí vstupu a výstupu do bazénu vhodnou malou výškou pochozí plochy u podélných hran bazénu (přetékací okraje) TBD
+
+ 
+-------------------------------------------------------------------------------
+DEFINICE
+-------------------------------------------------------------------------------
+
+Podélné hrany bazénu - definice
+Podélné hrany obdélníkového bazénu jsou ty dva okraje, které mají svoji délku větší, než je kolmá šířka bazénu.
+
+Příčné hrany bazénu - definice
+
+
+Dlouhá dráha - definice 
+Dlouhá dráha má rozměry, které odpovídají následujícím mezím a přesnostem:
+ - délka 50,00 m +/- 0,01 m, rovnoběžně s podélnou stranou bazénu  
+ - šířka 2,50 m +/- 0,1 cm, kolmo na podélnou stranu bazénu
+
+
+Krátká dráha - definice 
+Krátká dráha má rozměry, které odpovídají následujícím mezím a přesnostem:
+ - délka 25,00 m +/- 0,01 m, rovnoběžně s podélnou stranou bazénu  
+ - šířka 2,50 m +/- 0,1 cm, kolmo na podélnou stranu bazénu
+
+Způsob vytyčení plavecké dráhy
+Dráha se vytyčuje prostřednictvím dvou samostatných kusů speciálního ocelového lana s vysokou pevností v tahu opatřeného vodotěsným obalem a speciálními plováky. 
+Lano se prostřednictvím speciálních upevňovacích a napínacích mechanismů zavěsí a napne mezi dva protější závěsy, které jsou pevnou součástí stěn bazénu. 
+Plováky udržují lana na hladině před napnutím i po něm. 
+Napnutím lana definovanou silou se vytvoří přímá linie plováků, která vizuálně i mechanicky odděluje hladinu v jednotlivých sousedních úsecích.   
+
+
+Hloubka - definice
+hLOUBKA 
