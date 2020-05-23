@@ -1,0 +1,10 @@
+Logger: ;Woehler CDL 210
+Start time: ;12/10/2019 2:36:28 PM
+Lograte: ;61 s
+Records: ;1
+Measuring Unit: ;Celsius
+Serial Number: ;12345678
+Note: ;
+ 
+Data Set;Date:;Time:;CO2:;Temperature:;rel. Humidity:;Dew Point:
+    1;12/10/2019;2:36:28 PM;672;25.4;42.5;11.7
